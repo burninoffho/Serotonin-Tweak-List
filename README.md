@@ -15,6 +15,16 @@ A continuously updated list of working iOS 16 semi-jailbreak springboard tweaks 
 - iKarwan: https://repo.ikghd.me/
 - JunesiPhone: http://junesiphone.com/supersecret/
 - Limneos Repo: http://limneos.net/repo/
+- SparkDevs Repo:
+https://sparkdev.me/
+
+# Cracked Repos
+NOTE - Always be careful when using cracked repos and always support the actual creators of the tweaks and themes you enjoy if all possible.
+- CyPwn Repo:
+https://repo.cypwn.xyz/
+- Paisseons Repo:
+https://paisseon.github.io/
+
 # Tweaks
 (This list will be enhanced with tabs and repos)
 - 3DAppVersionSpoofer - RootHide's Repo
@@ -100,12 +110,13 @@ A continuously updated list of working iOS 16 semi-jailbreak springboard tweaks 
 - Mi5Theme - Havoc
 - Moxy - Havoc
 - Viola - Havoc
-# Need someon to test:
-- CarBridge - Havoc
+# Need someone to test:
 - Cardculator - Havoc
 - iKeywi 4 - Havoc
 - Lynx - Havoc
 # Tweaks not working currently
+- Erik (Paisseon) - No preferences or injection
+- CarBridge (Havoc) - Currently not working on iphone 14 pro (16.6.1)
 - Aemulo (Chariz) - no tweak injection support for NFCD
 - AudioRecorder XS (Limneos Repo) - doesn’t record
 - Color3DIcons (BigBoss) - sends you to springboard when trying to open colored 3D touch holding app
