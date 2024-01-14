@@ -44,6 +44,7 @@ https://paisseon.github.io/
 - betterAlarm - Chariz
 - BoldersReborn - Chariz
 - CAHighFPS - PoomSmart's Repo
+- Cardculator - Havoc
 - Cask3 - Chariz
 - CC On & Off - RootHide's Repo
 - CCMusicArtwork - SparkDev
@@ -111,7 +112,6 @@ https://paisseon.github.io/
 - Moxy - Havoc
 - Viola - Havoc
 # Need someone to test:
-- Cardculator - Havoc
 - iKeywi 4 - Havoc
 - Lynx - Havoc
 # Tweaks not working currently
