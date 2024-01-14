@@ -18,13 +18,6 @@ A continuously updated list of working iOS 16 semi-jailbreak springboard tweaks 
 - SparkDevs Repo:
 https://sparkdev.me/
 
-# Cracked Repos
-NOTE - Always be careful when using cracked repos and always support the actual creators of the tweaks and themes you enjoy if all possible.
-- CyPwn Repo:
-https://repo.cypwn.xyz/
-- Paisseons Repo:
-https://paisseon.github.io/
-
 # Tweaks
 (This list will be enhanced with tabs and repos)
 - 3DAppVersionSpoofer - RootHide's Repo
