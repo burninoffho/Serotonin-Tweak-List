@@ -108,7 +108,6 @@ https://sparkdev.me/
 - iKeywi 4 - Havoc
 - Lynx - Havoc
 # Tweaks not working currently
-- Erik (Paisseon) - No preferences or injection
 - CarBridge (Havoc) - Currently not working on iphone 14 pro (16.6.1)
 - Aemulo (Chariz) - no tweak injection support for NFCD
 - AudioRecorder XS (Limneos Repo) - doesn’t record
